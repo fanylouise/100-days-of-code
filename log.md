@@ -1,13 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 1:December 21, 2022 
+### Day 0:December 21, 2022 
 
-**Today's Progress**: Loading...
-
-**Thoughts:** Loading...
+**Today's Progress**:
+Exercises of Alura/Oracle Bootcamp
 
 **Link to work:** [Defalt](http://www.example.com)
 
-**Link(s) to work**
-1. [Soon](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+### Day 1:December 23, 2022
+
+**Today's Progress**:
+Exercises of Alura/Oracle Bootcamp, Starting to implement SCSS in the KumerFood project.
+
+**Link to work:** [KumerFoods](https://github.com/fanylouise/KumerFoods)
+
+
+
+
+
+ **Link(s) to work**
+1. [KumerFoods](https://github.com/fanylouise/KumerFoods)
+
 2. [Soon2](https://www.freecodecamp.com/challenges/title-case-a-sentence)
